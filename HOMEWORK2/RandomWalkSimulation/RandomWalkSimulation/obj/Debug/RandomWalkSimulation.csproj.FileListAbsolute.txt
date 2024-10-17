@@ -1,0 +1,15 @@
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\bin\Debug\RandomWalkSimulation.exe.config
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\bin\Debug\RandomWalkSimulation.exe
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\bin\Debug\RandomWalkSimulation.pdb
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\obj\Debug\RandomWalkSimulation.csproj.AssemblyReference.cache
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\obj\Debug\RandomWalkSimulation.Form1.resources
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\obj\Debug\RandomWalkSimulation.Properties.Resources.resources
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\obj\Debug\RandomWalkSimulation.csproj.GenerateResource.cache
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\obj\Debug\RandomWalkSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\obj\Debug\RandomWalkSimulation.exe
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\obj\Debug\RandomWalkSimulation.pdb
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\bin\Debug\OxyPlot.dll
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\bin\Debug\OxyPlot.WindowsForms.dll
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\bin\Debug\OxyPlot.xml
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\bin\Debug\OxyPlot.WindowsForms.xml
+C:\Users\Fikrat Chalabiyev\source\repos\RandomWalkSimulation\RandomWalkSimulation\obj\Debug\RandomWalkSimulation.csproj.CopyComplete
